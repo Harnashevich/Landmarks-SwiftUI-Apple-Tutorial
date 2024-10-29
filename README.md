@@ -2,4 +2,15 @@
 
 SwiftUI Apple tutorial application.
 
+## Features
+
+• Displaying a list of favorite places <br />
+• Filter for favorite places <br />
+• Adding places to favorites
+
+## Technology stack
+
+• SwiftUI <br />
+• MapKit
+
 ![MyCollages](https://github.com/user-attachments/assets/9438ccc4-0685-4246-a83a-06f709620fad)
