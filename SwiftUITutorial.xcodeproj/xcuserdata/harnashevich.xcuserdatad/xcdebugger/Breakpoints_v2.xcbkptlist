@@ -3,4 +3,22 @@
    uuid = "9170B29B-238A-4C0E-B63D-15D37F60E5BE"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A36803DD-83D6-470A-82DC-E027D46888BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUITutorial/Views/Badge/Badge.swift"
+            startingColumnNumber = "13"
+            endingColumnNumber = "28"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
